@@ -11,6 +11,5 @@
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
-@property (strong, nonatomic) UIWindow *window;
-
+@property (strong, nonatomic) UIWindow *window; //大更即到，佛保，没bub
 @end
